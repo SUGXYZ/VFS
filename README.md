@@ -1,1 +1,2 @@
-VFS7.2Helper-CN
+www.sug.xyz
+VFS7.2Helper-ZH
