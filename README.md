@@ -1,1 +1,1 @@
-SUG-VFS
+VFS7.2Helper-CN
