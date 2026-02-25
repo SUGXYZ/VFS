@@ -1,2 +1,2 @@
-www.sug.xyz
+https://sug.xyz
 VFS7.2Helper-ZH
